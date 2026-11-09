@@ -72,6 +72,7 @@
       {
         name: 'Shivam Soni',
         initials: 'SS',
+        image: 'img/People/Shivam.jpeg',
         profile: 'https://www.linkedin.com/in/shivam-soni-b46992148/',
         role: 'Part-Time Ph.D. Scholar',
         cohort: 'Joined Jan 2026',
@@ -83,6 +84,7 @@
       {
         name: 'Akhilesh Das',
         initials: 'AD',
+        image: 'img/People/Akhilesh.jpeg',
         profile: 'https://www.linkedin.com/in/akhileshkdas/',
         role: 'Part-Time Ph.D. Scholar',
         cohort: 'Joined Dec 2023',
@@ -102,6 +104,18 @@
         dept: 'Department of Management Studies (DoMS)',
         category: 'doms',
         focus: 'Information Systems & Digital Transformation'
+      },
+      {
+        name: 'Harsh Pandey',
+        initials: 'HP',
+        image: 'img/People/Harsh.jpeg',
+        profile: 'https://www.linkedin.com/in/22harshpandey/',
+        role: 'Regular Ph.D. Scholar',
+        cohort: 'Joined July 2026',
+        badge: 'MHRD Scholar',
+        dept: 'Department of Management Studies (DoMS)',
+        category: 'doms',
+        focus: 'Information Systems'
       }
     ];
 
