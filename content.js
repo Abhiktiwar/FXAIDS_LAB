@@ -39,6 +39,7 @@
       {
         name: 'Parveen Kumar',
         initials: 'PK',
+        image: 'img/People/Parveen.jpeg',
         profile: 'https://www.linkedin.com/in/parveen-kumar-485082172/',
         role: 'Regular Ph.D. Scholar',
         cohort: 'Joined Jan 2025',
