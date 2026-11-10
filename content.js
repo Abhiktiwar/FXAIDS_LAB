@@ -27,6 +27,7 @@
       {
         name: 'Aaditya Chandra Tiwary',
         initials: 'AT',
+        image: 'img/People/Aaditya.png',
         profile: 'https://www.linkedin.com/in/aaditya-tiwary-0a7698114/',
         role: 'Regular Ph.D. Scholar',
         cohort: 'Joined Jul 2025',
