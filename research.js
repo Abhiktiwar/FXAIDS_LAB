@@ -9,7 +9,7 @@
         accent: 'teal',
         scholars: [
           'Mukesh Kumar (PhD Scholar, MFSDS&AI)',
-          'Harshith Kumar Yadav',
+          'Ella Has',
           'Prof. Akrati Saxena (LIACS, Leiden University, Netherlands)',
           'Prof. Mykola Pechenizkiy'
         ],
@@ -27,15 +27,15 @@
             citation: 'Kumar, M., Dixit, G., & Saxena, A. (2026)',
             title: 'Fairness-Sensitive PageRank Approximation',
             venue: 'arXiv Preprint',
-            link: 'https://www.alphaxiv.org/@gaurav-dixit',
-            linkType: 'alphaXiv'
+            link: 'https://arxiv.org/abs/2602.02329',
+            linkType: 'arXiv'
           },
           {
             citation: 'Has, E., Yadav, H. K., Dixit, G., Pechenizkiy, M., & Saxena, A. (2026)',
             title: 'Fairness-Aware Network Embeddings: Methods, Applications, and Challenges',
             venue: 'arXiv Preprint',
-            link: 'https://www.alphaxiv.org/@gaurav-dixit',
-            linkType: 'alphaXiv'
+            link: 'https://arxiv.org/abs/2608.19381',
+            linkType: 'arXiv'
           }
         ]
       },
@@ -46,11 +46,11 @@
         icon: 'fa-comments',
         accent: 'cyan',
         scholars: [
-          'Dr. Kunal Rao (PhD 2021â€“2026, now Faculty at IIM Bodh Gaya)',
+          'Dr. Kunal Rao (PhD 2021–2026, now Faculty at IIM Bodh Gaya)',
           'Dr. Amit Kumar Kushwaha',
           'Prof. Sunil Mithas (University of South Florida, USA)'
         ],
-        grant: 'International Collaboration on Social Media & Machine Learning (with USF, USA) & IMPRESS, ICSSR Social Media Project (PI, â‚¹12.60 Lacs)',
+        grant: 'International Collaboration on Social Media & Machine Learning (with USF, USA) & IMPRESS, ICSSR Social Media Project (PI, 12.60 Lacs)',
         details: 'Examining how prior linguistic behavior, posting language, and conversational consistency shape regular user and influencer participation, alongside machine learning frameworks to detect suspicious accounts and misinformation in social media.',
         outcomes: [
           {
@@ -70,7 +70,7 @@
           {
             citation: 'Dixit, G., & Kushwaha, A. K. (2023)',
             title: "Algorithmic enhancements to identify predictable components from users' data and a framework to detect misinformation in social media",
-            venue: 'Journal of Business Analytics, 6(2), 112â€“126',
+            venue: 'Journal of Business Analytics, 6(2), 112-126',
             link: 'https://doi.org/10.1080/2573234X.2022.2100834',
             linkType: 'DOI'
           },
@@ -116,7 +116,7 @@
           'Mukesh Kumar (PhD Scholar, MFSDS&AI)',
           'Dr. Sakshi Srivastava (PhD Alumni, Christ University)'
         ],
-        grant: 'Fuzzy Logix Big Data & Analytics Lab Grant (PI, â‚¹7.80 Lacs) & IndiaAI Fellowship',
+        grant: 'Fuzzy Logix Big Data & Analytics Lab Grant (PI, 7.80 Lacs) & IndiaAI Fellowship',
         details: 'Enhancing hybrid and item-based collaborative filtering recommender systems by integrating domain decision factors, CUR-based matrix decomposition, and deep neural network architectures for consumer behavior prediction.',
         outcomes: [
           {
@@ -129,7 +129,7 @@
           {
             citation: 'Abhigyan, Das, S., Kumar, M., & Dixit, G. (2026)',
             title: 'Enhancing Hybrid Recommendation Systems with CUR-based Matrix Decomposition and Deep Neural Network Architectures for Consumer Behaviour Prediction',
-            venue: 'IEEE ICASS 2026, pp. 1â€“5',
+            venue: 'IEEE ICASS 2026, pp. 1-5',
             link: 'https://doi.org/10.1109/ICASS69550.2026.11547413',
             linkType: 'DOI'
           }
@@ -143,7 +143,7 @@
         accent: 'emerald',
         scholars: [
           'Aaditya Chandra Tiwary (PhD Scholar, DoMS)',
-          'Dr. Manisha Yadav (PhD 2021â€“2025, now Faculty at IIT Jodhpur)',
+          'Dr. Manisha Yadav (PhD 2021-2025, now Faculty at IIT Jodhpur)',
           'S. K. Morankar',
           'Prof. Abhinava Tripathi (IIT Kanpur)'
         ],
@@ -160,7 +160,7 @@
           {
             citation: 'Yadav, M., & Dixit, G. (2025)',
             title: 'Asymmetric dependence between the prospect theory value and stock returns in India: a quantile regression approach',
-            venue: 'Managerial Finance, 51(2), 236â€“261',
+            venue: 'Managerial Finance, 51(2), 236-261',
             link: 'https://doi.org/10.1108/MF-10-2023-0628',
             linkType: 'DOI'
           },
@@ -180,13 +180,13 @@
         icon: 'fa-seedling',
         accent: 'rose',
         scholars: [
-          'Dr. Pramod Kumar Patnaik (PhD 2021â€“2026, now Faculty at JGBS)',
+          'Dr. Pramod Kumar Patnaik (PhD 2021–2026, now Faculty at JGBS)',
           'Dr. Kunal Rao (IIM Bodh Gaya)',
           'Prof. Richard Heeks (The University of Manchester, UK)',
           'Prof. Ajay Kumar (Emlyon Business School, France)',
           'Prof. Thanos Papadopoulos (University of Kent, UK)'
         ],
-        grant: 'Generative AI Intervention in Rural Uplands: An Action Research Study â€” Funded by The University of Manchester, UK (Sep 2025, PI: Dr. Gaurav Dixit)',
+        grant: 'Generative AI Intervention in Rural Uplands: An Action Research Study, Funded by The University of Manchester, UK (Sep 2025, PI: Dr. Gaurav Dixit)',
         details: 'Action research and socio-technical studies on Generative AI artefacts in rural educational classrooms and uplands, alongside strategies to overcome the digital divide and reduce proxy ICT usage in Indian rural telecenters.',
         outcomes: [
           {
@@ -206,7 +206,7 @@
           {
             citation: 'Patnaik, P. K., & Dixit, G. (2023)',
             title: 'Understanding potential risk factors in the use of ICTs for rural e-governance',
-            venue: 'IFIP Joint Working Conference on the Future of Digital Work, pp. 92â€“109',
+            venue: 'IFIP Joint Working Conference on the Future of Digital Work, pp. 92-109',
             link: 'https://doi.org/10.1007/978-3-031-50154-8_9',
             linkType: 'DOI'
           }
@@ -227,7 +227,7 @@
           'Prof. Sunil Mithas (USF, USA)',
           'Prof. Chutiporn Anutariya (AIT, Thailand)'
         ],
-        grant: 'How Information Technology and Management Initiatives Facilitate Business Innovation â€” Funded by DST VAIBHAV, Govt. of India (Apr 2024, PI, Outlay: â‚¹72.225 Lacs) & AITâ€“IITR Dual Doctoral Program',
+        grant: 'How Information Technology and Management Initiatives Facilitate Business Innovation, Funded by DST VAIBHAV, Govt. of India (Apr 2024, PI, Outlay: 72.225 Lacs) & AIT-IITR Dual Doctoral Program',
         details: 'Developing global digital credentialing frameworks for continuing professional development and analyzing how government policies and IT management initiatives shape IT spending and business innovation in startups and incumbents.',
         outcomes: [
           {
@@ -257,28 +257,21 @@
           'Prof. Sumanta Sarkhel (Physics, IIT Roorkee)',
           'Prof. M. V. Sunilkrishna (Physics, IIT Roorkee)'
         ],
-        grant: 'Investigation and characterization of ionospheric plasma using Artificial Intelligence and Machine Learning â€” Funded by SERB, DST (Mar 2022, Co-PI, Outlay: â‚¹29.99 Lacs)',
+        grant: 'Investigation and characterization of ionospheric plasma using Artificial Intelligence and Machine Learning, Funded by SERB, DST (Mar 2022, Co-PI, Outlay: 29.99 Lacs)',
         details: 'Designing convolutional neural networks and deep learning object detection frameworks for automated localization, classification, and characterization of mid-latitude ionospheric plasma structures and annular LED patterns in all-sky airglow imagery.',
         outcomes: [
           {
             citation: 'Chakrabarti, S., Upadhyaya, J., Rathi, R., Yadav, V., Patgiri, D., Dixit, G., Krishna, M. S., & Sarkhel, S. (2025)',
             title: 'Automatic Localization and Characterization of Mid-latitude Ionospheric Plasma Structures from All-sky Airglow Images using a Deep Learning Framework',
-            venue: 'Advances in Space Research, 76(4), 2302â€“2314',
+            venue: 'Advances in Space Research, 76(4), 2302-2314',
             link: 'https://doi.org/10.1016/j.asr.2025.05.086',
             linkType: 'DOI'
           },
           {
             citation: 'Chakrabarti, S., Patgiri, D., Rathi, R., Dixit, G., Krishna, M. S., & Sarkhel, S. (2024)',
             title: "Optimizing a Deep Learning Framework for Accurate Detection of the Earth's Ionospheric Plasma Structures from All-sky Airglow Images",
-            venue: 'Advances in Space Research, 73(12), 5990â€“6005',
+            venue: 'Advances in Space Research, 73(12), 5990-6005',
             link: 'https://doi.org/10.1016/j.asr.2024.03.014',
-            linkType: 'DOI'
-          },
-          {
-            citation: 'Mondal, S., Upadhyay, A., Sarkhel, S., Dixit, G., & Krishna, M. S. (2024)',
-            title: 'Detection of annular LED patterns in the OI 630.0 nm all-sky airglow images using convolution neural network',
-            venue: 'Advances in Space Research, 74(11), 5920â€“5931',
-            link: 'https://doi.org/10.1016/j.asr.2024.08.059',
             linkType: 'DOI'
           }
         ]
@@ -293,29 +286,29 @@
         icon: 'fa-chart-pie',
         accent: 'teal',
         scholars: [
-          'Dr. Sakshi Srivastava (PhD 2017â€“2024, now Faculty at Christ University)'
+          'Dr. Sakshi Srivastava (PhD 2017-2024, now Faculty at Christ University)'
         ],
-        grant: 'Setting up Fuzzy Logix Big Data & Analytics Lab â€” Funded by Fuzzy Logix (Sep 2016, PI: Dr. Gaurav Dixit, Outlay: â‚¹7.80 Lacs)',
+        grant: 'Setting up Fuzzy Logix Big Data & Analytics Lab, Funded by Fuzzy Logix (Sep 2016, PI: Dr. Gaurav Dixit, Outlay: 7.80 Lacs)',
         details: 'Empirical and experimental investigations into how descriptive and predictive analytics create business value across different phases of decision-making for both business analysts and managers.',
         outcomes: [
           {
             citation: 'Srivastava, S., & Dixit, G. (2025)',
             title: 'Value of Analytics for Decision-Making: Role of Managers and Analysts',
-            venue: 'Journal of Computer Information Systems (JCIS), 65(1), 28â€“46',
+            venue: 'Journal of Computer Information Systems (JCIS), 65(1), 28-46',
             link: 'https://doi.org/10.1080/08874417.2023.2255557',
             linkType: 'DOI'
           },
           {
             citation: 'Srivastava, S., & Dixit, G. (2024)',
             title: 'AI and Big Data Practices in Developing Country Context: A Socio-Technical Perspective',
-            venue: 'IFIP WG 9.4 / Advances in ICT, pp. 77â€“91',
+            venue: 'IFIP WG 9.4 / Advances in ICT, pp. 77-91',
             link: 'https://doi.org/10.1007/978-3-031-50188-3_6',
             linkType: 'DOI'
           },
           {
             citation: 'Srivastava, S., & Dixit, G. (2023)',
             title: "E-channel Selection Intention: Role of Users' IT Characteristics and IT Usage",
-            venue: 'IFIP I3E 2023 (LNCS), pp. 145â€“156',
+            venue: 'IFIP I3E 2023 (LNCS), pp. 145-156',
             link: 'https://doi.org/10.1007/978-3-031-50040-4_12',
             linkType: 'DOI'
           },
@@ -339,13 +332,13 @@
           'Prof. Vinay Sharma (DoMS, IIT Roorkee)',
           'Prof. Rajat Agarwal (DoMS, IIT Roorkee)'
         ],
-        grant: 'Socio-Economic Value Creation through Forest Bio-Residue Based Energy Generation in Alignment with the UNâ€™s SDGs â€” Funded by NMHS (Jan 2019, Co-PI, Outlay: â‚¹90.80 Lacs)',
+        grant: 'Socio-Economic Value Creation through Forest Bio-Residue Based Energy Generation, Funded by NMHS (Jan 2019, Co-PI, Outlay: 90.80 Lacs)',
         details: 'Building localized mobile platform ecosystems to connect Himalayan forest villagers with markets and evaluating enablers and barriers to pine-needle bio-residue renewable energy generation aligned with the UN SDGs.',
         outcomes: [
           {
             citation: 'Dixit, G. (2023)',
             title: 'How do localized socio-economic platform ecosystems emerge? A mobile platform to bring the market to villagers in Himalayan forests',
-            venue: 'Information Technology for Development, 29(2â€“3), 205â€“227',
+            venue: 'Information Technology for Development, 29(2-3), 205-227',
             link: 'https://doi.org/10.1080/02681102.2022.2131702',
             linkType: 'DOI'
           },
@@ -379,7 +372,7 @@
         icon: 'fa-recycle',
         accent: 'amber',
         scholars: [
-          'Dr. Ashwani Kumar (PhD 2015â€“2019, now Faculty at IIM Rohtak)',
+          'Dr. Ashwani Kumar (PhD 2015-2019, now Faculty at IIM Rohtak)',
           'Dr. Vineet Kaushik, Dr. H. Gupta, Dr. S. Luthra'
         ],
         grant: 'Sustainability & Multi-Criteria Decision Making (MCDM) Doctoral Research Stream',
@@ -401,15 +394,15 @@
           },
           {
             citation: 'Kumar, A., & Dixit, G. (2018)',
-            title: 'An analysis of barriers affecting the implementation of e-waste management practices in India: A novel ISMâ€“DEMATEL approach',
-            venue: 'Sustainable Production and Consumption, 14, 36â€“52',
+            title: 'An analysis of barriers affecting the implementation of e-waste management practices in India: A novel ISM-DEMATEL approach',
+            venue: 'Sustainable Production and Consumption, 14, 36-52',
             link: 'https://doi.org/10.1016/j.spc.2018.01.002',
             linkType: 'DOI'
           },
           {
             citation: 'Kumar, A., & Dixit, G. (2018)',
             title: 'Evaluating critical barriers to implementation of WEEE management using DEMATEL approach',
-            venue: 'Resources, Conservation and Recycling, 131, 101â€“121',
+            venue: 'Resources, Conservation and Recycling, 131, 101-121',
             link: 'https://doi.org/10.1016/j.resconrec.2017.12.024',
             linkType: 'DOI'
           }
@@ -432,14 +425,14 @@
           {
             citation: 'Kaushik, V., Kumar, A., Gupta, H., & Dixit, G. (2022)',
             title: 'A hybrid decision model for supplier selection in Online Fashion Retail (OFR)',
-            venue: 'International Journal of Logistics Research and Applications, 25(1), 27â€“51',
+            venue: 'International Journal of Logistics Research and Applications, 25(1), 27-51',
             link: 'https://doi.org/10.1080/13675567.2020.1791810',
             linkType: 'DOI'
           },
           {
             citation: 'Kaushik, V., Kumar, A., Gupta, H., & Dixit, G. (2020)',
             title: 'Modelling and prioritizing the factors for online apparel return using BWM approach',
-            venue: 'Electronic Commerce Research, 22, 843â€“873',
+            venue: 'Electronic Commerce Research, 22, 843-873',
             link: 'https://doi.org/10.1007/s10660-020-09406-3',
             linkType: 'DOI'
           }
@@ -452,16 +445,16 @@
         icon: 'fa-mobile-screen-button',
         accent: 'cyan',
         scholars: [
-          'Dr. Himanshu Agarwal (PhD 2015â€“2022, now Manager at MSTC Ltd., Ministry of Steel)',
+          'Dr. Himanshu Agarwal (PhD 2015-2022, now Manager at MSTC Ltd., Ministry of Steel)',
           'Prof. P. Panigrahi (IIM Indore)'
         ],
-        grant: 'M-Commerce, M-Governance, and Internet of Things: Research on Current Issues and Future Directions â€” Funded by FIG, IIT Roorkee (Jul 2015, PI, Outlay: â‚¹9.80 Lacs)',
+        grant: 'M-Commerce, M-Governance, and Internet of Things: Research on Current Issues and Future Directions, Funded by FIG, IIT Roorkee (Jul 2015, PI, Outlay: 9.80 Lacs)',
         details: 'Foundational research on multilingual social movements, user cognitive engagement with information technology, M-commerce adoption in smart cities, and determinants of IT investments by Indian firms.',
         outcomes: [
           {
             citation: 'Agarwal, H., & Dixit, G. (2020)',
             title: "Information technology usage and cognitive engagement: understanding effects on users' cognitive processes",
-            venue: 'IFIP TDIT 2020, pp. 74â€“85',
+            venue: 'IFIP TDIT 2020, pp. 74-85',
             link: 'https://doi.org/10.1007/978-3-030-64861-9_7',
             linkType: 'DOI'
           },
@@ -475,7 +468,7 @@
           {
             citation: 'Dixit, G., & Panigrahi, P. (2014)',
             title: 'Information technology impact and role of firm age and export activity: An emerging economy context',
-            venue: 'Journal of Global Information Technology Management, 17(3), 169â€“187',
+            venue: 'Journal of Global Information Technology Management, 17(3), 169-187',
             link: 'https://doi.org/10.1080/1097198X.2014.951295',
             linkType: 'DOI'
           },
@@ -566,13 +559,13 @@
               <div>
                 <div class="text-[10px] font-mono uppercase tracking-wider text-slate-400 font-semibold">Associated Researchers</div>
                 <p class="text-xs text-slate-600 dark:text-slate-300 mt-0.5 line-clamp-2 leading-relaxed">
-                  ${item.scholars.join(' â€¢ ')}
+                  ${item.scholars.join(' ')}
                 </p>
               </div>
 
               <div class="p-2.5 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200/70 dark:border-slate-700/70">
                 <div class="text-[10px] font-mono uppercase tracking-wider text-teal-700 dark:text-teal-400 font-semibold flex items-center gap-1">
-                  <i class="fa-solid fa-award text-[10px]"></i> Matched Grant / Collab
+                  <i class="fa-solid fa-award text-[10px]"></i> Research Grant / Collab
                 </div>
                 <p class="text-[11px] text-slate-600 dark:text-slate-300 mt-0.5 line-clamp-2 leading-snug">
                   ${item.grant}
@@ -634,11 +627,11 @@
             </div>
           </div>
 
-          <!-- Matched Research Grant / Collaboration -->
+          <!-- Research Research Grant / Collaboration -->
           <div class="p-4 rounded-xl bg-teal-50/70 dark:bg-teal-950/30 border border-teal-200/80 dark:border-teal-800/60">
             <div class="text-[11px] font-mono uppercase tracking-wider text-teal-800 dark:text-teal-300 font-semibold mb-1 flex items-center gap-1.5">
               <i class="fa-solid fa-hand-holding-dollar text-teal-600 dark:text-teal-400"></i>
-              Matched Sponsored Research Grant / Collaboration
+              Research Grant / Collaboration
             </div>
             <p class="text-xs sm:text-sm font-medium text-slate-800 dark:text-slate-200 leading-relaxed">
               ${domain.grant}

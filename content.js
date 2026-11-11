@@ -180,6 +180,34 @@
 
     const researchInterns = [
       {
+        year: 2026,
+        name: 'Varda Bhandari',
+        programme: 'Research intern',
+        institution: "Thapar institute of technology, Patiala",
+        focus: 'Financial AI'
+      },
+       {
+        year: 2026,
+        name: 'Mihir Phalke',
+        programme: 'Spark Intern',
+        institution: "K. J. Somaiya College of Engineering, Somaiya Vidyavihar University, Mumbai",
+        focus: 'Financial AI'
+      },
+      {
+        year: 2026,
+        name: 'Swethaa Ramachandran',
+        programme: 'NPTEL Predoc',
+        institution: "Government College of Technology, Coimbatore",
+        focus: 'Multimodal financial AI'
+      },
+      {
+        year: 2026,
+        name: 'Anuj Vyas',
+        programme: 'NPTEL Intern',
+        institution: " ",
+        focus: 'Financial AI'
+      },
+      {
         year: 2025,
         name: 'Sushma Bhandary',
         programme: 'NPTEL',

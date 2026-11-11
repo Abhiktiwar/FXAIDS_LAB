@@ -211,6 +211,7 @@
 
     let aboutSpotlightIndex = 0;
     let aboutSpotlightTimer;
+    let aboutVisitorsScrollTimer;
 
     function showAboutSpotlight(index) {
       const conference = document.getElementById('aboutConferenceFlash');
@@ -233,9 +234,24 @@
     function initAboutSpotlight() {
       const conference = document.getElementById('aboutConferenceFlash');
       const visitors = document.getElementById('aboutVisitorsFlash');
+      const scroller = document.getElementById('aboutVisitorsScroller');
       if (!conference || !visitors) return;
 
       showAboutSpotlight(0);
+      if (!scroller) return;
+
+      const scrollVisitors = () => {
+        if (scroller.matches(':hover') || scroller.querySelector(':focus')) return;
+        const maxScroll = scroller.scrollWidth - scroller.clientWidth;
+        if (maxScroll <= 0) return;
+        scroller.scrollLeft = scroller.scrollLeft >= maxScroll ? 0 : scroller.scrollLeft + 1;
+      };
+
+      aboutVisitorsScrollTimer = setInterval(scrollVisitors, 45);
+      scroller.addEventListener('focusin', () => clearInterval(aboutVisitorsScrollTimer));
+      scroller.addEventListener('focusout', () => {
+        aboutVisitorsScrollTimer = setInterval(scrollVisitors, 45);
+      });
     }
 
     // INITIALIZE ON LOAD
