@@ -209,6 +209,35 @@
       setTimeout(() => toast.classList.add('hidden'), 4000);
     }
 
+    let aboutSpotlightIndex = 0;
+    let aboutSpotlightTimer;
+
+    function showAboutSpotlight(index) {
+      const conference = document.getElementById('aboutConferenceFlash');
+      const visitors = document.getElementById('aboutVisitorsFlash');
+      if (!conference || !visitors) return;
+
+      aboutSpotlightIndex = ((index % 2) + 2) % 2;
+      conference.classList.toggle('hidden', aboutSpotlightIndex !== 0);
+      visitors.classList.toggle('hidden', aboutSpotlightIndex !== 1);
+      clearTimeout(aboutSpotlightTimer);
+      aboutSpotlightTimer = setTimeout(() => {
+        showAboutSpotlight(aboutSpotlightIndex === 0 ? 1 : 0);
+      }, aboutSpotlightIndex === 0 ? 8000 : 45000);
+    }
+
+    function changeAboutSpotlight(direction) {
+      showAboutSpotlight(aboutSpotlightIndex + direction);
+    }
+
+    function initAboutSpotlight() {
+      const conference = document.getElementById('aboutConferenceFlash');
+      const visitors = document.getElementById('aboutVisitorsFlash');
+      if (!conference || !visitors) return;
+
+      showAboutSpotlight(0);
+    }
+
     // INITIALIZE ON LOAD
     window.addEventListener('DOMContentLoaded', () => {
       renderAlumni();
@@ -217,4 +246,5 @@
       renderTeam('all');
       renderResearchInterns();
       renderResearch();
+      initAboutSpotlight();
     });
