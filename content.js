@@ -63,6 +63,7 @@
       {
         name: 'Faye Simon',
         initials: 'FS',
+        image: 'img/People/Faye.jpg',
         profile: 'https://www.linkedin.com/in/faye-simon-b04822102/',
         role: 'Dual Doctoral Degree Scholar',
         cohort: 'Joined Sep 2024',

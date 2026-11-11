@@ -216,4 +216,5 @@
       renderPublications();
       renderTeam('all');
       renderResearchInterns();
+      renderResearch();
     });
